@@ -3,7 +3,7 @@
 **TO:** Investment Committee, NC KTZ JSC
 **FROM:** Product Strategy Lead
 **DATE:** 2026-02-11
-**SUBJECT:** Financial & Governance Feasibility Analysis
+**SUBJECT:** Cloud Computing For Big Data
 
 ## 1. Recommendation: GO (Conditioned on On-Premises Deployment)
 We recommend immediate funding for the **SmartSpec** prototype. The project offers a 10x ROI within Year 1 while mitigating critical compliance risks, provided strictly defined data residency protocols are followed.
